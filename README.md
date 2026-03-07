@@ -1,6 +1,5 @@
 
 Running
-  - cd root
   - g4bl $PIM1/piM1_mu.g4bl
     
 Parallel
