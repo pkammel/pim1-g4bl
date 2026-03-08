@@ -54,7 +54,6 @@ Thumbs.db
 *.dat
 *.pdf
 *.root
-*.html
 .ipynb_checkpoints*
 *.pkl
 reports/*
